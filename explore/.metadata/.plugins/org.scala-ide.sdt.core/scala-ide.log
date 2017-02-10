@@ -133,3 +133,33 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-02-10 10:32:54,869  WARN [Worker-9] - ScalaProject - Project sc_01 runs on platform default installation.
 2017-02-10 10:35:57,940  WARN [Worker-12] - ScalaProject - Project sc_01 has platform default sourceLevel.
 2017-02-10 10:35:57,940  WARN [Worker-12] - ScalaProject - Project sc_01 runs on platform default installation.
+2017-02-10 13:18:23,456  WARN [ModalContext] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:18:23,456  WARN [ModalContext] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:18:23,938  WARN [Worker-22] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:18:23,939  WARN [Worker-22] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:19:09,205  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:19:09,205  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:19:11,764  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:19:11,764  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:19:11,959  WARN [Worker-16] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:19:11,959  WARN [Worker-16] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:23:48,888  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 477
+2017-02-10 13:23:48,889  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 477
+2017-02-10 13:23:53,007  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 489
+2017-02-10 13:23:53,009  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 489
+2017-02-10 13:23:54,642  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 490
+2017-02-10 13:23:54,643  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 490
+2017-02-10 13:24:31,690  WARN [Worker-23] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:24:31,691  WARN [Worker-23] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:29:07,520  WARN [Worker-22] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:29:07,520  WARN [Worker-22] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:33:00,784  WARN [Worker-20] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:33:00,784  WARN [Worker-20] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:34:07,093  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:34:07,093  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:34:07,265  WARN [Worker-20] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:34:07,265  WARN [Worker-20] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:34:41,958  WARN [Worker-29] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:34:41,958  WARN [Worker-29] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:35:12,233  WARN [Worker-29] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:35:12,234  WARN [Worker-29] - ScalaProject - Project sc_02 runs on platform default installation.
