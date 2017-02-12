@@ -163,3 +163,23 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-02-10 13:34:41,958  WARN [Worker-29] - ScalaProject - Project sc_02 runs on platform default installation.
 2017-02-10 13:35:12,233  WARN [Worker-29] - ScalaProject - Project sc_02 has platform default sourceLevel.
 2017-02-10 13:35:12,234  WARN [Worker-29] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:42:55,695  WARN [Worker-27] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:42:55,695  WARN [Worker-27] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:43:09,186  WARN [Worker-33] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:43:09,186  WARN [Worker-33] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:44:24,502  WARN [Worker-34] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:44:24,502  WARN [Worker-34] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:45:21,416  WARN [Worker-32] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:45:21,416  WARN [Worker-32] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 13:45:25,344  WARN [Worker-32] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 13:45:25,345  WARN [Worker-32] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 16:25:33,779  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 16:25:33,781  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 16:25:33,786  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 16:25:33,787  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 16:25:40,714 ERROR [Worker-3] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-02-10 16:25:40,729 ERROR [Worker-3] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-02-10 16:27:40,879  WARN [Worker-9] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 16:27:40,879  WARN [Worker-9] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-10 16:27:40,910  WARN [Worker-9] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-10 16:27:40,911  WARN [Worker-9] - ScalaProject - Project sc_02 runs on platform default installation.

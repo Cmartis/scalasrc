@@ -72,7 +72,7 @@ abstract class Element {
 }
 
 
-object TestElement{
+object Test{
   def main(args: Array[String]) {
     
     println("example [\n" + example + "\n]")

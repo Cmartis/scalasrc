@@ -2,12 +2,12 @@
 <launchConfiguration type="scala.application">
 <listAttribute key="StepOutExcludePkgsOrClasses"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/sc_02/src/Spiral.scala"/>
+<listEntry value="/sc_02/src/Element.scala"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="Spiral"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="50"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TestElement"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="5"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="sc_02"/>
 </launchConfiguration>

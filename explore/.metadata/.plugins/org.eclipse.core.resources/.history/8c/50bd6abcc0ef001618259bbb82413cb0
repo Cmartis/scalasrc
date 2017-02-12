@@ -71,8 +71,7 @@ abstract class Element {
   override def toString = contents mkString "\n"
 }
 
-
-object TestElement{
+object LayoutElement {
   def main(args: Array[String]) {
     
     println("example [\n" + example + "\n]")
@@ -84,8 +83,6 @@ object TestElement{
     column1 beside column2
   }
 }
-
-
 
 
 
