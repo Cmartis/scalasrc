@@ -893,3 +893,245 @@ org.eclipse.core.internal.resources.ResourceException: Resource '/list1_1/src/Ca
 2017-02-17 14:18:23,184  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
 2017-02-17 14:18:34,916  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
 2017-02-17 14:18:34,919  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 08:31:54,287  WARN [Worker-104] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 08:31:54,287  WARN [Worker-104] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 08:32:28,688  WARN [Worker-101] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 08:32:28,689  WARN [Worker-101] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 08:33:39,839  WARN [Worker-83] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 08:33:39,839  WARN [Worker-83] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:03:36,444  WARN [Worker-112] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:03:36,445  WARN [Worker-112] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:03:39,643 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:03:39,643 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:03:39,644 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:03:41,722  WARN [Worker-112] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:03:41,723  WARN [Worker-112] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:04:03,074  WARN [Worker-103] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:04:03,075  WARN [Worker-103] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:05:59,734  WARN [Worker-112] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:05:59,734  WARN [Worker-112] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:06:19,485 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:06:19,486 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:06:19,486 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:06:21,929  WARN [Worker-116] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:06:21,929  WARN [Worker-116] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:06:49,125  WARN [Worker-112] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:06:49,126  WARN [Worker-112] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:10:18,222  WARN [Worker-120] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:10:18,223  WARN [Worker-120] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:12:44,941  WARN [Worker-121] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:12:44,941  WARN [Worker-121] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:13:01,477  WARN [Worker-125] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:13:01,477  WARN [Worker-125] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:13:16,614  WARN [Worker-124] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:13:16,615  WARN [Worker-124] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:13:25,784  WARN [Worker-123] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:13:25,784  WARN [Worker-123] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:13:31,846  WARN [Worker-122] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:13:31,847  WARN [Worker-122] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:13:54,527 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:13:54,528 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:13:54,528 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:13:55,146  WARN [Worker-122] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:13:55,147  WARN [Worker-122] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:14:08,915  WARN [Worker-122] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:14:08,915  WARN [Worker-122] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:14:20,214 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:14:20,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:14:20,227 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:14:20,228 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:14:20,273  WARN [Worker-122] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:14:20,283  WARN [Worker-122] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:14:49,599  WARN [Worker-122] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:14:49,599  WARN [Worker-122] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:18:09,310  WARN [Worker-124] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:18:09,311  WARN [Worker-124] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:18:12,015 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:18:12,157 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:18:12,158 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:18:12,160 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:18:12,645  WARN [Worker-124] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:18:12,645  WARN [Worker-124] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:18:52,751  WARN [Worker-121] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:18:52,752  WARN [Worker-121] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:19:02,938  WARN [Worker-126] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:19:02,938  WARN [Worker-126] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:19:19,684  WARN [Worker-121] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:19:19,684  WARN [Worker-121] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:19:37,544  WARN [Worker-124] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:19:37,544  WARN [Worker-124] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:19:58,853  WARN [Worker-126] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:19:58,853  WARN [Worker-126] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:21:36,299  WARN [Worker-128] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:21:36,299  WARN [Worker-128] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:22:59,720  WARN [Worker-126] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:22:59,721  WARN [Worker-126] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:24:17,054  WARN [Worker-133] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:24:17,054  WARN [Worker-133] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:24:26,900  WARN [Worker-130] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:24:26,901  WARN [Worker-130] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:24:30,086  WARN [Worker-134] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:24:30,086  WARN [Worker-134] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:30:46,250  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:30:46,251  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:35:15,880  WARN [Worker-139] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:35:15,881  WARN [Worker-139] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:35:37,893  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:35:37,893  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:35:45,837  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:35:45,838  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:35:56,632  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:35:56,633  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:36:12,671  WARN [Worker-141] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:36:12,671  WARN [Worker-141] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:36:44,329  WARN [Worker-137] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:36:44,329  WARN [Worker-137] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:37:02,505  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:37:02,506  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:37:16,424 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:37:17,360  WARN [Worker-141] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:37:17,360  WARN [Worker-141] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:37:38,033  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:37:38,033  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:37:44,312  WARN [Worker-142] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:37:44,313  WARN [Worker-142] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:37:46,487  WARN [Worker-142] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:37:46,488  WARN [Worker-142] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:38:45,161  WARN [Worker-142] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:38:45,161  WARN [Worker-142] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:39:24,254  WARN [Worker-140] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:39:24,254  WARN [Worker-140] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:39:54,094  WARN [Worker-139] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:39:54,095  WARN [Worker-139] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:40:05,283  WARN [Worker-139] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:40:05,284  WARN [Worker-139] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:40:34,672  WARN [Worker-140] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:40:34,673  WARN [Worker-140] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:40:49,314  WARN [Worker-141] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:40:49,315  WARN [Worker-141] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:41:08,934  WARN [Worker-140] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:41:08,935  WARN [Worker-140] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:41:33,172  WARN [Worker-139] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:41:33,173  WARN [Worker-139] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:41:52,673  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:41:52,674  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:41:56,951  WARN [Worker-141] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:41:56,951  WARN [Worker-141] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:44:13,460  WARN [Worker-143] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:44:13,460  WARN [Worker-143] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:44:31,263  WARN [Worker-143] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:44:31,264  WARN [Worker-143] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:44:51,386  WARN [Worker-145] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:44:51,387  WARN [Worker-145] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:45:05,081  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:45:05,082  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:45:22,750  WARN [Worker-136] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:45:22,750  WARN [Worker-136] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:45:29,858  WARN [Worker-137] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:45:29,859  WARN [Worker-137] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:47:18,600  WARN [Worker-137] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:47:18,602  WARN [Worker-137] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:47:53,279  WARN [Worker-147] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:47:53,279  WARN [Worker-147] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:47:57,011  WARN [Worker-149] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:47:57,011  WARN [Worker-149] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:48:34,515  WARN [Worker-147] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:48:34,515  WARN [Worker-147] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:49:25,104 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,105 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,106 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,106 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:25,108 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 11:49:27,539  WARN [Worker-147] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:49:27,540  WARN [Worker-147] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:49:51,806  WARN [Worker-148] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:49:51,807  WARN [Worker-148] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:51:12,401  WARN [Worker-150] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:51:12,401  WARN [Worker-150] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:52:15,621  WARN [Worker-151] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:52:15,622  WARN [Worker-151] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:52:47,948  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:52:47,949  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:52:52,825  WARN [Worker-146] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:52:52,825  WARN [Worker-146] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:52:57,707  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:52:57,707  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:53:08,092  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:53:08,093  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:53:16,073  WARN [Worker-151] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:53:16,074  WARN [Worker-151] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:53:37,835  WARN [Worker-154] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:53:37,836  WARN [Worker-154] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:54:00,565  WARN [Worker-152] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:54:00,566  WARN [Worker-152] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:54:07,174  WARN [Worker-152] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:54:07,175  WARN [Worker-152] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:54:20,202  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:54:20,202  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:55:11,090  WARN [Worker-152] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:55:11,090  WARN [Worker-152] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:55:33,896  WARN [Worker-146] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:55:33,897  WARN [Worker-146] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:55:56,403  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:55:56,404  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:56:05,284  WARN [Worker-152] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:56:05,285  WARN [Worker-152] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:56:09,035  WARN [Worker-153] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:56:09,036  WARN [Worker-153] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:58:05,234  WARN [Worker-146] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:58:05,234  WARN [Worker-146] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 11:58:28,420  WARN [Worker-156] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 11:58:28,421  WARN [Worker-156] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:01:43,444  WARN [Worker-151] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:01:43,445  WARN [Worker-151] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:02:41,499 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:02:41,524 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:02:41,524 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:02:41,525 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:02:50,080  WARN [Worker-162] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:02:50,080  WARN [Worker-162] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:03:13,973  WARN [Worker-162] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:03:13,973  WARN [Worker-162] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:04:31,667  WARN [Worker-165] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:04:31,668  WARN [Worker-165] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:04:44,880  WARN [Worker-166] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:04:44,881  WARN [Worker-166] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:04:55,221  WARN [Worker-166] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:04:55,222  WARN [Worker-166] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:04:57,831 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:04:57,834 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:04:57,834 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-18 12:04:58,450  WARN [Worker-169] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:04:58,450  WARN [Worker-169] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:05:02,080  WARN [Worker-161] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:05:02,080  WARN [Worker-161] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:05:15,533  WARN [Worker-167] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:05:15,534  WARN [Worker-167] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:05:26,551  WARN [Worker-162] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:05:26,552  WARN [Worker-162] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:05:40,929  WARN [Worker-166] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:05:40,929  WARN [Worker-166] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:05:43,707  WARN [Worker-169] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:05:43,707  WARN [Worker-169] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:07:44,394  WARN [Worker-170] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:07:44,395  WARN [Worker-170] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:07:55,950  WARN [Worker-172] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:07:55,951  WARN [Worker-172] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:08:15,771  WARN [Worker-162] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:08:15,771  WARN [Worker-162] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:08:21,535  WARN [Worker-168] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:08:21,535  WARN [Worker-168] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:08:43,953  WARN [Worker-168] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:08:43,953  WARN [Worker-168] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:09:01,187  WARN [Worker-172] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:09:01,188  WARN [Worker-172] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:09:11,881  WARN [Worker-172] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:09:11,881  WARN [Worker-172] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:09:20,926  WARN [Worker-170] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:09:20,927  WARN [Worker-170] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:15:21,652  WARN [Worker-175] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:15:21,652  WARN [Worker-175] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-18 12:15:31,972  WARN [Worker-177] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-18 12:15:31,973  WARN [Worker-177] - ScalaProject - Project fp_exp runs on platform default installation.
