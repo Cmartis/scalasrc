@@ -183,3 +183,713 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-02-10 16:27:40,879  WARN [Worker-9] - ScalaProject - Project sc_02 runs on platform default installation.
 2017-02-10 16:27:40,910  WARN [Worker-9] - ScalaProject - Project sc_02 has platform default sourceLevel.
 2017-02-10 16:27:40,911  WARN [Worker-9] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-12 09:46:49,917  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-12 09:46:49,935  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-12 09:46:49,963  WARN [main] - ScalaProject - Project sc_02 has platform default sourceLevel.
+2017-02-12 09:46:49,964  WARN [main] - ScalaProject - Project sc_02 runs on platform default installation.
+2017-02-12 09:47:01,705 ERROR [Worker-1] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-02-12 09:47:01,708 ERROR [Worker-1] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-02-12 09:50:55,025  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-02-12 09:55:03,017 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Scala\eclipse\plugins\org.eclipse.equinox.launcher_1.3.200.v20160318-1642.jar'
+2017-02-12 09:55:03,036 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\resources.jar'
+2017-02-12 09:55:03,076 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\rt.jar'
+2017-02-12 09:55:03,653 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\jsse.jar'
+2017-02-12 09:55:03,697 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\jce.jar'
+2017-02-12 09:55:03,711 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\charsets.jar'
+2017-02-12 09:55:03,763 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\jfr.jar'
+2017-02-12 09:55:03,838 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\access-bridge-64.jar'
+2017-02-12 09:55:03,898 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\cldrdata.jar'
+2017-02-12 09:55:04,443 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\dnsns.jar'
+2017-02-12 09:55:04,453 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\jaccess.jar'
+2017-02-12 09:55:04,484 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\jfxrt.jar'
+2017-02-12 09:55:05,539 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\localedata.jar'
+2017-02-12 09:55:05,576 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\nashorn.jar'
+2017-02-12 09:55:05,784 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunec.jar'
+2017-02-12 09:55:05,791 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunjce_provider.jar'
+2017-02-12 09:55:05,831 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunmscapi.jar'
+2017-02-12 09:55:05,880 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\sunpkcs11.jar'
+2017-02-12 09:55:05,989 ERROR [PyEdit initializer] - System.err - *sys-package-mgr*: processing new jar, 'C:\Program Files\Java\jre1.8.0_111\lib\ext\zipfs.jar'
+2017-02-15 21:34:19,143  WARN [ModalContext] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:34:19,158  WARN [ModalContext] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:34:25,926  WARN [Worker-36] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:34:25,927  WARN [Worker-36] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:34:46,653  WARN [main] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:34:46,654  WARN [main] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:34:52,921  WARN [Worker-36] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:34:52,921  WARN [Worker-36] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:34:53,547  WARN [Java indexing] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:34:53,548  WARN [Java indexing] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:35:07,266  WARN [Worker-41] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:35:07,267  WARN [Worker-41] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:35:10,263 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - An error occurred while trying to create a file.
+org.eclipse.core.internal.resources.ResourceException: Resource '/list1_1/src/Cafe1.scala' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:314)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:301)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.create(File.java:106)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.create(File.java:106)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:334)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.openFileInSrcDir$1(NewFileWizard.scala:364)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.org$scalaide$ui$internal$wizards$NewFileWizard$$openEditor(NewFileWizard.scala:375)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:287)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:133)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+2017-02-15 21:35:10,434 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - An error occurred while trying to create a file.
+org.eclipse.core.internal.resources.ResourceException: Resource '/list1_1/src/Cafe1.scala' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:314)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:301)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.create(File.java:106)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:334)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.openFileInSrcDir$1(NewFileWizard.scala:364)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.org$scalaide$ui$internal$wizards$NewFileWizard$$openEditor(NewFileWizard.scala:375)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:287)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:133)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+2017-02-15 21:35:10,519 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - An error occurred while trying to create a file.
+org.eclipse.core.internal.resources.ResourceException: Resource '/list1_1/src/Cafe1.scala' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:314)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:301)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at org.eclipse.core.internal.resources.File.create(File.java:181)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply$mcV$sp(FileUtils.scala:93)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at org.scalaide.util.eclipse.FileUtils$$anonfun$createFile$1.apply(FileUtils.scala:84)
+	at scala.util.Try$.apply(Try.scala:192)
+	at org.scalaide.util.eclipse.FileUtils$.createFile(FileUtils.scala:84)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:284)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.runEventLoop(EventLoopProgressMonitor.java:125)
+	at org.eclipse.ui.internal.dialogs.EventLoopProgressMonitor.isCanceled(EventLoopProgressMonitor.java:99)
+	at org.eclipse.core.internal.jobs.ThreadJob.isCanceled(ThreadJob.java:144)
+	at org.eclipse.core.internal.jobs.ThreadJob.waitForRun(ThreadJob.java:233)
+	at org.eclipse.core.internal.jobs.ThreadJob.joinRun(ThreadJob.java:197)
+	at org.eclipse.core.internal.jobs.ImplicitJobs.begin(ImplicitJobs.java:92)
+	at org.eclipse.core.internal.jobs.JobManager.beginRule(JobManager.java:307)
+	at org.eclipse.core.internal.resources.WorkManager.checkIn(WorkManager.java:121)
+	at org.eclipse.core.internal.resources.Workspace.prepareOperation(Workspace.java:2188)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:334)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.openFileInSrcDir$1(NewFileWizard.scala:364)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.org$scalaide$ui$internal$wizards$NewFileWizard$$openEditor(NewFileWizard.scala:375)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:287)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$$anonfun$okPressed$1.apply(NewFileWizard.scala:283)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.ui.internal.wizards.NewFileWizard$class.okPressed(NewFileWizard.scala:283)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter$$anon$1.okPressed(NewFileWizardAdapter.scala:28)
+	at org.scalaide.ui.internal.wizards.NewFileWizardAdapter.performFinish(NewFileWizardAdapter.scala:55)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.actions.NewWizardShortcutAction.run(NewWizardShortcutAction.java:133)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+2017-02-15 21:36:08,220 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-15 21:36:08,275 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-15 21:36:08,277 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-15 21:36:08,280 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-15 21:37:15,195  WARN [Worker-41] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:37:15,196  WARN [Worker-41] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:39:02,040  WARN [Worker-36] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:39:02,041  WARN [Worker-36] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:43:15,160  WARN [Worker-44] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:43:15,161  WARN [Worker-44] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:43:41,664  WARN [Worker-39] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:43:41,665  WARN [Worker-39] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:43:46,386  WARN [Worker-41] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:43:46,386  WARN [Worker-41] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:47:17,770  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:17,772  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:19,162  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:19,163  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:21,547  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:21,549  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:24,671  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:24,673  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:24,675  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:26,615  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:26,616  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:27,906  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:27,907  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:29,089  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:29,091  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:29,656  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:29,657  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:30,816  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:30,818  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:32,539  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:32,540  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:34,204  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:34,205  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:35,438  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:35,440  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:40,591  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:40,592  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:45,776  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:45,777  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:46,382  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:46,385  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:47,586  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:47,587  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:49,248  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:49,249  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:51,903  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:51,905  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:52,498  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:52,499  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:54,184  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:47:54,186  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:01,896  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:01,897  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:02,442  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:02,443  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:03,012  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:03,014  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:04,356  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:04,357  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:05,529  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:05,531  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:08,730  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:08,731  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:13,644  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-02-15 21:48:13,954  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-02-15 21:48:17,145  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:17,147  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:19,865  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:19,866  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:20,450  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:20,451  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:21,132  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:21,133  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:23,299  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:23,301  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:26,113  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:26,114  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:27,243  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:27,244  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:30,527  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:30,529  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:32,357  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:32,359  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:36,081  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:36,083  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:36,660  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:36,661  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:38,610  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:38,611  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:40,905  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:40,906  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:46,208  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:46,209  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:49,031  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:49,035  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:51,174  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:51,181  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:53,405  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:53,407  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:56,655  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:56,657  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:57,020  WARN [Worker-43] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-15 21:48:57,020  WARN [Worker-43] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-15 21:48:57,700  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:57,705  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:58,235  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:58,237  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:58,837  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:58,838  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:59,371  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:59,372  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:59,936  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:48:59,950  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:49:00,512  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:49:00,513  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:49:01,037  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-15 21:49:01,038  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:33,962  WARN [main] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:01:33,988  WARN [main] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:01:34,021  WARN [main] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:01:34,021  WARN [main] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:01:40,625  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:40,628  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:42,765  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:42,766  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:43,297  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:43,298  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:01:44,322 ERROR [Worker-2] - System.err - log4j:WARN No appenders could be found for logger (org.eclipse.jgit.util.FS).
+2017-02-17 08:01:44,323 ERROR [Worker-2] - System.err - log4j:WARN Please initialize the log4j system properly.
+2017-02-17 08:03:18,717  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:03:18,720  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:03:19,316  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:03:19,316  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:04:08,106  WARN [Worker-3] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:04:08,107  WARN [Worker-3] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:04:08,382  WARN [Worker-3] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:04:08,382  WARN [Worker-3] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:04:08,619  WARN [Worker-2] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:04:08,619  WARN [Worker-2] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:04:10,074  WARN [Java indexing] - ScalaProject - Project list1_1 has platform default sourceLevel.
+2017-02-17 08:04:10,074  WARN [Java indexing] - ScalaProject - Project list1_1 runs on platform default installation.
+2017-02-17 08:07:31,433  WARN [ModalContext] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:31,434  WARN [ModalContext] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:07:31,855  WARN [ModalContext] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:31,855  WARN [ModalContext] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:07:36,419  WARN [Worker-0] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:36,419  WARN [Worker-0] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:07:48,917  WARN [main] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:48,918  WARN [main] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:07:54,447  WARN [main] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:54,447  WARN [main] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:07:54,636  WARN [Worker-5] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:07:54,637  WARN [Worker-5] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:10:36,675  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 267
+2017-02-17 08:10:40,897  WARN [Worker-9] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:10:40,898  WARN [Worker-9] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:10:48,026  WARN [Worker-9] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:10:48,030  WARN [Worker-9] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:11:45,635  WARN [Worker-0] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:11:45,636  WARN [Worker-0] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:12:19,587  WARN [Java indexing] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:12:19,588  WARN [Java indexing] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:12:20,240  WARN [Worker-5] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:12:20,240  WARN [Worker-5] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:13:15,995  WARN [Worker-5] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:13:15,996  WARN [Worker-5] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:13:16,008  WARN [Worker-5] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:13:16,008  WARN [Worker-5] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:13:16,191  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:13:16,191  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:13:28,493  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:28,493  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:29,560  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:29,560  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:30,175  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:30,176  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 167
+2017-02-17 08:13:31,307  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 166
+2017-02-17 08:13:31,308  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 166
+2017-02-17 08:13:41,880  WARN [Worker-8] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:13:41,881  WARN [Worker-8] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 08:14:03,627  WARN [Worker-8] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 08:14:03,627  WARN [Worker-8] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:08:19,175  WARN [Worker-19] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:08:19,176  WARN [Worker-19] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:10:54,415  WARN [Worker-20] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:10:54,416  WARN [Worker-20] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:11:29,357  WARN [Worker-21] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:11:29,358  WARN [Worker-21] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:12:16,727  WARN [Worker-21] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:12:16,728  WARN [Worker-21] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:12:58,744 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:12:58,744 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:12:58,744 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:13:14,646  WARN [Worker-22] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:13:14,646  WARN [Worker-22] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:13:36,555 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:13:36,556 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:13:36,556 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 10:13:45,965  WARN [Worker-20] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:13:45,965  WARN [Worker-20] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:14:00,044  WARN [Worker-16] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:14:00,044  WARN [Worker-16] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:14:29,471  WARN [Worker-16] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:14:29,481  WARN [Worker-16] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 10:14:41,043  WARN [Worker-16] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 10:14:41,043  WARN [Worker-16] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 11:28:12,545  WARN [Worker-27] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 11:28:12,546  WARN [Worker-27] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 11:30:04,918  WARN [Worker-31] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 11:30:04,919  WARN [Worker-31] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:43:21,886  WARN [main] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:43:21,886  WARN [main] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:43:23,429  WARN [Worker-37] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:43:23,431  WARN [Worker-37] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:43:48,725  WARN [Worker-39] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:43:48,725  WARN [Worker-39] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:44:45,244  WARN [Worker-39] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:44:45,245  WARN [Worker-39] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:46:22,605  WARN [Worker-40] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:46:22,606  WARN [Worker-40] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:50:50,011  WARN [Worker-44] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:50:50,012  WARN [Worker-44] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:52:51,321  WARN [Worker-47] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:52:51,322  WARN [Worker-47] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:53:02,071  WARN [Worker-47] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:53:02,071  WARN [Worker-47] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:53:10,568  WARN [Worker-46] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:53:10,569  WARN [Worker-46] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:53:29,373  WARN [Worker-50] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:53:29,374  WARN [Worker-50] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:54:03,748  WARN [Worker-42] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:54:03,748  WARN [Worker-42] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:54:11,952  WARN [Worker-50] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:54:11,952  WARN [Worker-50] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:55:14,724  WARN [Worker-47] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:55:14,725  WARN [Worker-47] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:55:38,483  WARN [Worker-50] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:55:38,484  WARN [Worker-50] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:55:55,479  WARN [Worker-46] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:55:55,480  WARN [Worker-46] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:57:07,673  WARN [Worker-49] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:57:07,673  WARN [Worker-49] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:57:17,463  WARN [Worker-46] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:57:17,464  WARN [Worker-46] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:57:26,156  WARN [Worker-54] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:57:26,157  WARN [Worker-54] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:58:03,404  WARN [Worker-49] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:58:03,404  WARN [Worker-49] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:58:10,790  WARN [Worker-56] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:58:10,790  WARN [Worker-56] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 12:58:19,565  WARN [Worker-60] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 12:58:19,566  WARN [Worker-60] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:01:28,334  WARN [Worker-54] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:01:28,335  WARN [Worker-54] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:02:50,361  WARN [Worker-62] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:02:50,361  WARN [Worker-62] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:03:09,329  WARN [Worker-53] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:03:09,330  WARN [Worker-53] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:07:09,159  WARN [Worker-53] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:07:09,160  WARN [Worker-53] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:57:17,704  WARN [Worker-71] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:57:17,705  WARN [Worker-71] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:57:38,717  WARN [Worker-74] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:57:38,718  WARN [Worker-74] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 13:57:54,260  WARN [Worker-76] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 13:57:54,260  WARN [Worker-76] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:05:47,586  WARN [Worker-71] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:05:47,587  WARN [Worker-71] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:06:01,579 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:06:01,579 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:06:01,580 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:06:07,383  WARN [Worker-76] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:06:07,383  WARN [Worker-76] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:06:19,111  WARN [Worker-81] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:06:19,112  WARN [Worker-81] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:06:27,701 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:06:27,702 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:06:27,702 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:07:57,164  WARN [Worker-71] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:07:57,164  WARN [Worker-71] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:07:59,182  WARN [Worker-80] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:07:59,182  WARN [Worker-80] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:09:18,251  WARN [Worker-83] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:09:18,251  WARN [Worker-83] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:09:43,341  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:09:43,341  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:12:03,630  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:12:03,631  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:12:38,218  WARN [Worker-83] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:12:38,219  WARN [Worker-83] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:12:47,698  WARN [Worker-79] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:12:47,699  WARN [Worker-79] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:12:58,899  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:12:58,900  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:14:05,773  WARN [Worker-76] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:14:05,773  WARN [Worker-76] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:16:01,112  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:16:01,113  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:16:28,330  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:16:28,330  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:17:27,456  WARN [Worker-89] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:17:27,457  WARN [Worker-89] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:17:30,855 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:17:30,856 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:17:30,856 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-02-17 14:17:32,565  WARN [Worker-88] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:17:32,565  WARN [Worker-88] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:17:43,425  WARN [Worker-90] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:17:43,425  WARN [Worker-90] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:17:54,843  WARN [Worker-88] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:17:54,844  WARN [Worker-88] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:18:03,019  WARN [Worker-83] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:18:03,020  WARN [Worker-83] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:18:23,184  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:18:23,184  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-17 14:18:34,916  WARN [Worker-85] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-17 14:18:34,919  WARN [Worker-85] - ScalaProject - Project fp_exp runs on platform default installation.
