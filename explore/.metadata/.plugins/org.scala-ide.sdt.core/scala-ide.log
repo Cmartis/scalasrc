@@ -1387,3 +1387,46 @@ Caused by: com.cedarsoftware.util.io.JsonIoException: EOF reached prematurely
 2017-02-20 15:57:49,218  WARN [Worker-48] - ScalaProject - Project fp_exp runs on platform default installation.
 2017-02-20 15:58:00,018  WARN [Worker-53] - ScalaProject - Project fp_exp has platform default sourceLevel.
 2017-02-20 15:58:00,018  WARN [Worker-53] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:06:51,292  WARN [Worker-50] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:06:51,292  WARN [Worker-50] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:31:32,474  WARN [Worker-62] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:31:32,474  WARN [Worker-62] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:39:39,150  WARN [Worker-65] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:39:39,150  WARN [Worker-65] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:39:39,568  WARN [Java indexing] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:39:39,568  WARN [Java indexing] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:40:37,809  WARN [Worker-65] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:40:37,810  WARN [Worker-65] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:40:48,181  WARN [Worker-65] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:40:48,181  WARN [Worker-65] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:40:48,547  WARN [Java indexing] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:40:48,547  WARN [Java indexing] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:40:48,918  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-02-20 16:41:01,604  WARN [Worker-73] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:41:01,604  WARN [Worker-73] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:42:08,282  WARN [Worker-72] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:42:08,282  WARN [Worker-72] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:42:18,812  WARN [Worker-69] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:42:18,812  WARN [Worker-69] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:43:25,041  WARN [Worker-68] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:43:25,042  WARN [Worker-68] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:49:37,528  WARN [Worker-76] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:49:37,528  WARN [Worker-76] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:52:24,609  WARN [main] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:52:24,610  WARN [main] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:52:24,614  WARN [main] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:52:24,614  WARN [main] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:57:00,908  WARN [Worker-8] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:57:00,909  WARN [Worker-8] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:57:00,934  WARN [Worker-8] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:57:00,935  WARN [Worker-8] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:57:03,654  WARN [Worker-8] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:57:03,654  WARN [Worker-8] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 16:57:20,455  WARN [Worker-9] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 16:57:20,457  WARN [Worker-9] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 17:07:18,008  WARN [Worker-16] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 17:07:18,009  WARN [Worker-16] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 17:07:44,642  WARN [Worker-19] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 17:07:44,643  WARN [Worker-19] - ScalaProject - Project fp_exp runs on platform default installation.
+2017-02-20 17:08:36,056  WARN [Worker-13] - ScalaProject - Project fp_exp has platform default sourceLevel.
+2017-02-20 17:08:36,056  WARN [Worker-13] - ScalaProject - Project fp_exp runs on platform default installation.
