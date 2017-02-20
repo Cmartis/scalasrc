@@ -17,8 +17,6 @@
 		<item value="org.eclipse.pde:3.12.1.v20160907-1200"/>
 		<item value="org.eclipse.platform:4.6.1.v20160907-1200"/>
 		<item value="org.eclipse.rcp:4.6.1.v20160907-1200"/>
-		<item value="org.python.pydev.feature.source:5.5.0.201701191708"/>
-		<item value="org.python.pydev.feature:5.5.0.201701191708"/>
 		<item value="org.scala-ide.play2.feature:0.9.0.v-2_11-201612131054-063b4e8"/>
 		<item value="org.scala-ide.scala211.feature:4.5.0.201612131029"/>
 		<item value="org.scala-ide.sdk.feature:4.5.0.201612131100"/>

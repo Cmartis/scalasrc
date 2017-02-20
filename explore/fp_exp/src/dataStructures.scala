@@ -104,4 +104,29 @@ object List {
 
     def concat[A](l: List[List[A]]): List[A] =
       foldRight(l, Nil:List[A])(append)
+      
+    def addOne(l: List[Int]): List[Int]=
+      foldRight(l, Nil:List[Int])((h,t) => Cons(h+1, t))
+  
+    def dString(l: List[Double]): List[String]=
+      foldRight(l, Nil:List[String])((h,t) => Cons(h.toString, t))
+      
+    def map[A,B](l: List[A])(f: A => B): List[B] = 
+      foldRight(l, Nil:List[B])((h,t) => Cons(f(h),t))
+      
+    def filter[A](l: List[A])(f: A => Boolean): List[A] = 
+      foldRight(l, Nil:List[A])((h,t) => if (f(h)) Cons(h, t) else t)
+      
+    def flatMap[A,B](l: List[A])(f: A => List[B]): List[B] =
+      concat(map(l)(f))
+  
+    def filterViaFlatMap[A](l: List[A])(f: A => Boolean): List[A] =
+      flatMap(l)(a => if (f(a)) List(a) else Nil)
+
+    def addPairWise(l1: List[Int], l2: List[Int]): List[Int] = (l1, l2) match {
+        case (Nil, _) => Nil
+        case (_, Nil) => Nil
+        case(Cons(h1, t1), Cons(h2, t2)) => Cons(h1+h2, addPairWise(t1, t2))
+      }
+      
  }
